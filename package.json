@@ -1,0 +1,16 @@
+{
+  "name": "piktabot",
+  "version": "1.0.0",
+  "description": "ascii art converter twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aatif shah",
+  "license": "ISC",
+  "dependencies": {
+    "filepicker-js": "^2.4.18",
+    "twit": "^2.2.5"
+  }
+}
